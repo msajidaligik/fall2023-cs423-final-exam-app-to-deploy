@@ -2,6 +2,8 @@
 
 This application consists of a _frontend built with React_ and a _backend built with Flask_. The backend is using _Mariadb_ instance for stroing data. It allows users to _manage tasks_, _create new tasks_, and _remove existing tasks_.
 
+![app-flow-diagram](app-flow-diagram.png)
+
 ## Prerequisites
 
 Before deploying the application, ensure you have the following prerequisites installed:
