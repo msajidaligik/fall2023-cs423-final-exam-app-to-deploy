@@ -45,9 +45,9 @@ Before deploying the application, ensure you have the following prerequisites in
     python3 main.py
     ```
 #### Database
-- Install _Mariadb_ databse
+- Install _Mariadb_ database
 - Create a _database_ and _user_ for the application
-- Create all required tables in database using _init.sql_ file in _backend/init.db/_ folder
+- Create all initially required tables and data in created database using _init.sql_ file in _backend/init.db/_ folder
 
 #### Database Client
 - Use any database client such as _phpmyadmin_ to easily interact with databse
