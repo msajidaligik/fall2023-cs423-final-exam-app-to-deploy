@@ -24,7 +24,7 @@ Before deploying the application, ensure you have the following prerequisites in
 - Launch the application using
 
     ```sh
-    npm frontend
+    npm start
     ```
 - Other basic commands are same as for the normal react project
 
